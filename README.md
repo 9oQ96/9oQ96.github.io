@@ -19,4 +19,4 @@ It's a bit of Python:
 > add the value to h_p
 > (unless there's no val)
 
-*Well, that was fun!*
+_Well, that was **fun!**_
