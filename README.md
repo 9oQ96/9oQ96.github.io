@@ -17,6 +17,6 @@ It's a bit of Python:
 
 > pop() a key out of dict
 > add the value to h_p
-> (unless there's no corresponding val)
+> (unless there's no val)
 
 *Well, that was fun!*
