@@ -1,4 +1,4 @@
-It's very easy to make some words **bold** and other words *italic* with Markdown.
+I can see that it's very easy to make some words **bold** and other words *italic* with Markdown.
 
 You can even [link to Duckduckgo!](https://html.duckduckgo.com)
 
@@ -19,4 +19,6 @@ It's a bit of Python:
 > add the value to h_p
 > (unless there's no val)
 
-_Well, that was **fun!**_
+_Well, one of these days all this stuff will just click and I'll **get it!**_
+
+One of these days...
